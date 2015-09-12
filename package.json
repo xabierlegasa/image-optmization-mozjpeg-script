@@ -1,0 +1,17 @@
+{
+  "name": "image-optimization",
+  "version": "0.0.1",
+  "description": "Optimize an image",
+  "preferGlobal": "true",
+  "bin": {
+    "optimizer": "optimizer.js"
+  },
+  "author": "Xabier Legasa",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "imagemin": "^3.2.0",
+    "imagemin-mozjpeg": "^5.1.0"
+  }
+}
