@@ -15,11 +15,11 @@ All info about npm: https://docs.npmjs.com/getting-started/what-is-npm
 
 ## Install ##
 
-1. Install npm dependencies, defined in package.json:
+- Install npm dependencies, defined in package.json:
 
 `npm install`
 
-2. Install optimizer script, defined in package.json:
+- Install optimizer script, defined in package.json:
 
 `npm link`
 
